@@ -6,4 +6,4 @@ Cloud Native applications are typically developed using containerization technol
 The Cloud Native Computing Foundation (CNCF) defines Cloud Native as a set of principles and practices that include containerization, dynamic orchestration, and declarative APIs. The goal of Cloud Native is to provide a scalable and resilient infrastructure that can adapt to changing business needs, improve developer productivity, and increase overall application agility and availability.
 Here it is cloud native monitoring app :
 this is build  to monitor the cpu percentage and memory percentage usage
-and it was deployed using the kubernetes and AWS tools like EKS nad ECR.
+and it was deployed using the kubernetes and AWS tools
